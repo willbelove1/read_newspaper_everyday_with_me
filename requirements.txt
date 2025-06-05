@@ -1,0 +1,11 @@
+streamlit
+feedparser
+selenium
+webdriver-manager
+beautifulsoup4
+transformers[sentencepiece,torch]
+python-telegram-bot
+python-dotenv
+requests
+newspaper3k
+httpx[socks]
